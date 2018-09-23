@@ -44,6 +44,7 @@
           console.log(byCodes('26478-8'));
           console.log(byCodes('2345-7'));
           console.log(byCodes('58941-6'));
+          console.print("It Updated, Dude");
 
           var gender = patient.gender;
 
